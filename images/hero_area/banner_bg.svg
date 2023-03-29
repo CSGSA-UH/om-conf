@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M0,0 L100,100 A100,100 0 0 1 200,0 L200,100 A100,100 0 0 1 100,200 L0,200 A100,100 0 0 1 100,100 Z" fill="white"/>
+  <text x="100" y="100" font-size="24" fill="black">RACSR</text>
+  <text x="100" y="120" font-size="24" fill="black" font-weight="bold">2023</text>
+</svg>
